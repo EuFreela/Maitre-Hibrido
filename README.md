@@ -1,8 +1,10 @@
-# Maitre-Hibrido
+# Maitre-Híbrido
+
+## Fullstack: backend + frontend + mobile
 
 #### Trabalho descontinuado v1.2
 
-<p>Trata-se de um trabalho acadêmico iniciado para um amigo e foi descontinuado devido a faculdade permitir que outro aluno fizesse o mesmo trabalho plagiando a ideologia deste sistema. Houve uma publicação das imagens do app e suas funcionalidades o que permitiu que alunos copiassem seu trabalho.</p>
+<p>Trata-se de um trabalho acadêmico iniciado para um amigo e foi descontinuado devido a faculdade permitir que outro aluno fizesse o mesmo trabalho "plagiando" a ideologia deste sistema. Para provar isso, existem e-mails enviados para o corrdenador do cursos de sistema de informação e para a professora de TCC permissões para realizar o tema. Além disso, foi criado um documento em cartório antes da data que o rapaz plagiou. Houve tb pesquisa de campo onde o mesmo rapaz copiou as questões que se fazia aos entrevistados e ele publicou no grupo da uemg. Houve uma publicação das imagens do app e suas funcionalidades o que permitiu que alunos copiassem seu trabalho além dos comentários a respeito, porém, foram depois de formalizarem os documentos. Como este trabalho foi descontinuado, posso publicá-lo.</p>
 
 <p>Maitre em francês, é um membro operacional de um restaurante tradicional. Muitos das MEIs não implementam o maitre devido a questões de custo e beneficio partindo para o lado convencional de garçom, gerente e cozinha. Contudo, no organograma de um restaurante tradicional de restaurantes o maitre existe. Este app teria a função de substituí-lo.</p>
 
@@ -61,4 +63,42 @@
     <li>7. População das tabelas com informações default: php artisan db:seeder</li>
     <li>8. rodando o servidor: http://localhost/maitre(ou nome da pasta que descompactou)/public; ou composer server</li>
 </o>
+
+<hr>
+### BACKEND + API RESTFULL
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/server-restfull/SERVER/1-server.png" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/server-restfull/SERVER/2.png" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/server-restfull/SERVER/3.png" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/server-restfull/SERVER/5.png" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/server-restfull/SERVER/6.png" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/server-restfull/SERVER/7.png" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/server-restfull/SERVER/8.png" width="300" heigth="300">
+
+
+<hr>
+### MOBILE - Modelo temporário, é apenas uma interface de aprovação por parte dos integrantes do grupo
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/1maitre-mobile-login.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/2maitre-mobile-home-1.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/3maitre-mobile-home-chat-1.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/4maitre-mobile-home-chat-1.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/5maitre-mobile-home-departamento.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/6maitre-mobile-home-departamento-chat.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/7maitre-mobile-home-estat%C3%ADstica.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/8maitre-mobile-cadastro.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/9maitre-mobile-cadastro-usuario.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/10maitre-mobile-cadastro-p.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/11maitre-mobile-cadastro-p1.jpg" width="300" heigth="300">
+<img src="https://github.com/EuFreela/Maitre-Hibrido/blob/master/mobile-desing/backend/12maitre-mobile-cadastro-p2.jpg" width="300" heigth="300">
+
+
+
+
+
+
+
+
+
+
+
+
 
