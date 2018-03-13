@@ -4,7 +4,7 @@
 
 <a href="https://www.behance.net/gallery/63155961/Maitre">Apresentaçao no behance</a>
 
-##### ja trabalho com desenvolvimento web e desktop a muito anos como fullstack, mobile depois que entrei no angular passei a desenvolver aplicações híbridas - depois posto algo por aqui. Não posto postar o código aqui porque são aplicações proprietárias e oq ue facilitaria a exploraçãod e falhas no sistema permitindo maior vulnerabilidade dos sistemas - além do código, embora seja eu o programador, não é mais meu e sim da empresa - publicá-los seria falta de ética. Atualmente estou me aprofundando nas novas concepções de design UX/UI.
+##### ja trabalho com desenvolvimento web e desktop a muito anos como fullstack. Aplicações mobile, depois que entrei no angular, passei a desenvolver app híbridos. Para boa parte do que tenho feito, não posso publicá-los porque as aplicações são proprietárias - embora fora eu o programador, o código passa a não ser meu e sim da empresa e publicá-los seria falta de ética. Atualmente estou me aprofundando nas novas concepções de design UX/UI.
 
 #### Trabalho descontinuado v1.2
 
