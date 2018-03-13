@@ -4,6 +4,8 @@
 
 <a href="https://www.behance.net/gallery/63155961/Maitre">Apresentaçao no behance</a>
 
+#### ja trabalho com desenvolvimento web e desktop a muito anos como fullstack, mobile depois que entrei no angular passei a desenvolver aplicações híbridas - depois posto algo por aqui. Atualmente estou me aprofundando nas novas concepções de design UX/UI.
+
 #### Trabalho descontinuado v1.2
 
 <p>Trata-se de um trabalho acadêmico iniciado para um amigo e foi descontinuado devido a faculdade permitir que outro aluno fizesse o mesmo trabalho "plagiando" a ideologia deste sistema. Para provar isso, existem e-mails enviados para o corrdenador do curso de sistema de informação e para a professora de TCC pedindo permissões para realizar o tema antes do inicio da disciplina garantindo assim a total exclusividade para abordar o assunto devido ao tempo de desenvolvimento necessitar mais de 6 meses - desde o zero absoluto até finalizaçao do projeto. Além disso, foi criado um documento em cartório antes da data que o rapaz plagiou. Houve tb pesquisa de campo onde o mesmo rapaz copiou as questões que se fazia aos entrevistados e ele publicou no grupo da uemg. Houve uma publicação das imagens do app e suas funcionalidades o que permitiu que alunos copiassem seu trabalho além dos comentários a respeito, porém, foram depois de formalizarem os documentos. Como este trabalho foi descontinuado, posso publicá-lo.</p>
