@@ -1,0 +1,17 @@
+.padding-right{
+	padding-right: 10px !@import;
+}
+.padding-left{
+	padding-left: 10px !@import;
+}
+
+
+.div-right{
+	float: right;
+	padding-right: 30px;
+}
+
+.div-left{
+	float: left;
+	padding-left: 10px;
+}

@@ -1,0 +1,17 @@
+instalação
+
+1. descompacte o maitre.v4-final no local de acesso ao servidor. No wamp é na pata www
+2. Instale o composer na máquina host
+3. O mysql deve estar instalado. O PHPMYADMIN facilita.
+4. Abra o terminal e entre no diretório que esta o maitre.v4-final 
+5. Use o comando: composer install
+
+
+6. Após instalado, crie um banco de dados chamado maitre-3. Ou dê o nome que preferir. Lembre-se de mudar
+no arquivo .env as credenciais e nome do banco de dados.
+7. Crie as tabelas com o comando: php artisan migrate
+8. Abra o arquivo: app/database/seed/DataSeed.php, e descomente todas as opções.
+9. Após, insira os dados padrões: php artisan db:seed. Se não fizer isso ocorrerá erros.
+
+10. Após, inicie o apache.
+11. Acesse o app: http://localhost/maitre(ou nome da pasta que descompactou)/public.
