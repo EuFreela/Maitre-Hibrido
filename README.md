@@ -18,7 +18,14 @@
     <li>3. Layout final para mobile - modelo cliente. O modelo backend no mobile não é mais necessario</li>
     <li>4. Integração do layout no ionic - uma vez integrado no angular para passar para o mobile é mais rápido</li>
     <li>5. Integração da API</li>
-    <li>6. Integração com pagseguro e paypal</li>
+    <li>6. Integração com pagseguro e paypal na restfull</li>
+    <li>7. Compra do servidor node js e apache</li>
+    <li>8. Definição e compra de domínio</li>
+    <li>9. testes com segurança da informação - Pentasting</li>
+    <li>10. Planejamento para uso comercial</li>
+    <li>11. Testes finais</li>
+    <li>12. Implementação em algum restaurante - teste</li>
+    <li>13. Finalização e planejamento para captação de recursos financeiros - startup</li>
 </o>
 
 <br>
