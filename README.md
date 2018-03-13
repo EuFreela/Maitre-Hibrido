@@ -2,6 +2,8 @@
 
 ## Fullstack: backend + frontend + mobile
 
+<a href="https://www.behance.net/gallery/63155961/Maitre">Apresentaçao no behance</a>
+
 #### Trabalho descontinuado v1.2
 
 <p>Trata-se de um trabalho acadêmico iniciado para um amigo e foi descontinuado devido a faculdade permitir que outro aluno fizesse o mesmo trabalho "plagiando" a ideologia deste sistema. Para provar isso, existem e-mails enviados para o corrdenador do cursos de sistema de informação e para a professora de TCC permissões para realizar o tema. Além disso, foi criado um documento em cartório antes da data que o rapaz plagiou. Houve tb pesquisa de campo onde o mesmo rapaz copiou as questões que se fazia aos entrevistados e ele publicou no grupo da uemg. Houve uma publicação das imagens do app e suas funcionalidades o que permitiu que alunos copiassem seu trabalho além dos comentários a respeito, porém, foram depois de formalizarem os documentos. Como este trabalho foi descontinuado, posso publicá-lo.</p>
