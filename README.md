@@ -11,6 +11,16 @@
 <p>Maitre em francês, é um membro operacional de um restaurante tradicional. Muitos das MEIs não implementam o maitre devido a questões de custo e beneficio partindo para o lado convencional de garçom, gerente e cozinha. Contudo, no organograma de um restaurante tradicional de restaurantes o maitre existe. Este app teria a função de substituí-lo.</p>
 <p>A ideia é tão boa que poderia virar startup</p>
 
+#### Versões posteriores
+<o>
+    <li>1. Criação do frontend client-side: angular js e novo layout</li>
+    <li>2. Layout do backend para client-side: angular js e novo layout</li>
+    <li>3. Layout final para mobile - modelo cliente. O modelo backend no mobile não é mais necessario</li>
+    <li>4. Integração do layout no ionic - uma vez integrado no angular para passar para o mobile é mais rápido</li>
+    <li>5. Integração da API</li>
+    <li>6. Integração com pagseguro e paypal</li>
+</o>
+
 <br>
 #### Descrição Geral
 <p>O cliente entra no restaurante e senta-se em uma mesa. Nesta mesa existe um código de barras que identifica-a no sistema. Junto existe um link de acessos local para baixar o app ou nas marketplaces como apple e playstore. Ao baixar o sistema, é pedido para que bata uma foto do QRCode sobre a mesa, o qual existe um link para acesso ao servidor local. Ao acessar o link é listado o menu e suas opções.</p>
