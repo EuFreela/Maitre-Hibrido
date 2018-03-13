@@ -15,6 +15,7 @@
 <o>
     <li>1. Criação do frontend client-side: angular js e novo layout</li>
     <li>2. Layout do backend para client-side: angular js e novo layout</li>
+    <li>2.1. Atualização do servidor para a versão mais atual do framework laravel</li>
     <li>3. Layout final para mobile - modelo cliente. O modelo backend no mobile não é mais necessario</li>
     <li>4. Integração do layout no ionic - uma vez integrado no angular para passar para o mobile é mais rápido</li>
     <li>5. Integração da API</li>
